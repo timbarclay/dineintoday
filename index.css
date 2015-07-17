@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 8em;
+}
+
+div {
+  text-align: center;
+}
+
+.yes-no {
+  font-size: 2em;
+}
+
+.question {
+  font-size: 14px;
+}
