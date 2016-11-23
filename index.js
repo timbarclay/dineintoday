@@ -4,7 +4,7 @@
 
 function setupPage(){
   // A base line date that I know the deal started on
-  var seedDate = new Date(2016, 11, 23);
+  var seedDate = new Date(2016, 10, 23);
   // The number of days the deal runs for after it starts
   var closeDayNumber = 6;
   // The number of days before it repeats - e.g. it's fortnightly
